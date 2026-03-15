@@ -1,45 +1,37 @@
-# Fundamentos de Python e Lógica de Programação
+# Orientação a Objetos em Python
 
-Este repositório reúne conteúdos introdutórios sobre **Python** e **lógica de programação**, com exemplos práticos e exercícios para consolidar o aprendizado.  
+Este capítulo introduz os conceitos fundamentais da **programação orientada a objetos (POO)** aplicados em Python.  
+O objetivo é compreender como estruturar programas de forma mais organizada, reutilizável e próxima da realidade dos problemas que queremos resolver.
 
-O objetivo é oferecer uma base sólida para quem está iniciando na programação, explorando conceitos como:
-- Estruturas de dados (listas, tuplas, dicionários)
-- Estruturas de repetição e condicionais
-- Funções e boas práticas de organização de código
+## Conteúdo previsto
+- Conceito de **classes** e **objetos**
+- Diferença entre **atributos** e **métodos**
+- Uso de **construtores** (`__init__`)
+- Encapsulamento e visibilidade de dados
+- Herança e reutilização de código
+- Polimorfismo e sobrescrita de métodos
+- Boas práticas na modelagem orientada a objetos
 
 ---
 
-## Estrutura
+## Estrutura prevista
+
 ```
-📂 FUNDAMENTOS DE PYTHON E LÓGICA DE PROGRAMAÇÃO
-├── 01-ambiente_desenvolvimento
-├── 02-conhecendo_python
-├── 03-tipos_operadores
-├── 04-condicionais_repeticoes
-├── 05-manipulando_strings
-├── 06-trabalhando_com_listas
-├── 07-conhecendo_tuplas
-├── 08-dicionarios
-├── 09-desafio_fundamentos_python
+📂 Orientacao-a-Objetos-em-Python
+├── 01-introducao_classes_objetos
+├── 02-atributos_metodos
+├── 03-construtores_init
+├── 04-encapsulamento
+├── 05-heranca
+├── 06-polimorfismo
+├── 07-boas_praticas
+├── 08-desafios_orientacao_objetos
 └── README.md
 ```
 
 ---
 
-## Desafios finais
-Para aplicar os conhecimentos adquiridos, o repositório inclui dois desafios práticos:
-
-1. **Caixa inteligente com desconto**  
-   - Recebe preço e código de promoção  
-   - Aplica desconto de 10% se estiver em promoção  
-   - Exibe o valor final formatado com duas casas decimais  
-
-2. **Produto mais frequente**  
-   - Recebe uma lista de produtos separados por espaço  
-   - Identifica o produto mais recorrente  
-   - Em caso de empate, retorna o que aparece primeiro na lista  
-
-Esses desafios simulam problemas reais e ajudam a desenvolver raciocínio lógico e autonomia na resolução de tarefas.
+Este README é uma **proposta inicial** e será atualizado conforme o andamento do curso e os conteúdos forem aprofundados.
 
 ---
 
